@@ -1,4 +1,4 @@
-# IS-118
+
 Selv om mangfold er en styrke kan for store forskjeller i en gruppe skape utfordringer i oppstartsfasen. Jacobsen (2016, s. 57) understreker at sosial og demografisk likhet kan være avgjørende for å bygge tillit og trygghet tidlig i prosjektet. Når deltakere opplever å ha noe til felles, enten det gjelder verdier, arbeidsstil, alder eller utdanningsnivå, reduseres risikoen for konflikter og misforståelser. Dette er spesielt viktig i prosjekter med tanke på at de ofte har kortere frister og krever at gruppen fungerer effektivt fra starten.
 
 Tillit er en nøkkelressurs i prosjektarbeid, og den etableres lettere når medlemmene opplever en viss likhet mellom seg (Jacobsen, 2015, s. 59). Likhet betyr ikke at alle skal være like, men at gruppen har et felles mål som skaper grunnlag for samarbeidet. For Erling kan dette innebære å velge personer som deler en grunnleggende forståelse av prosjektets mål og kan identifisere seg med prosjektets verdigrunnlag. 
@@ -12,4 +12,3 @@ I praksis kan dette innebære å rekruttere personer med ulik faglig kompetanse,
 Jacobsen (2016, s. 66) fremhever at en bevisst tilnærming til sammensetningen også kan øke prosjektets legitimitet overfor interessenter. Når det er tydelig at gruppen er satt sammen med tanke på både effektivitet og samarbeid, styrkes prosjektets troverdighet og gjennomføringskraft. 
 
 For Erling er det avgjørende å se rekruttering og sammensetning som en del av oppstartspakken, ikke som en ettertanke. Prosjektgruppen må inneholde et mangfold av roller og perspektiver for å håndtere oppgavene effektivt, men også en viss grad av likhet for å bygge tillit og samarbeid tidlig. Balansen mellom disse to hensynene gir et prosjektteam som både kan være kreativt og stabilt. Som Jacobsen (2016, s. 68) påpeker, er det nettopp dette samspillet som gjør at prosjektorganisasjoner kan fungere godt, til tross for at de er midlertidige og arbeider under press. 
-
