@@ -6,9 +6,3 @@ Etablere verbal eller ikke-verbal kontakt for å skape mening mellom teamet. Ver
 Metakommunikasjon, kommuniser om selve kommunikasjonen dere har hatt, snakk om hvordan gruppen kommuniserer med hverandre, hvordan de uttrykker seg og hvordan de lytter. Det er bra for å forbedre prosessen og forståelsen med hverandre. Dette kan forebygge konflikt i et team. Det er ulike fagfelt i det teamet, så det er viktig å tydeliggjøre rollefordeling i starten slik at teamet vet hvem de kan henvende seg til hvis det gjelder noe de lurer på. Enten om det er i samme fagfelt eller ulikt fagfelt. Dette gjør at teamet kan kommunisere effektivt og forebygge misforståelser.
 
 Forebygg støy i kommunikasjonsprosessen. Alt av ytre støy som f.eks. bråk av maskiner, folk som snakker, telefonlyder, kan føre til forstyrrelse og forhindrer budskapet fra å bli mottatt på en riktig måte. Du kan forebygge det gjennom å ha et stille møterom, regler om telefonbruk og snakking. Indre støy er forstyrrelser som kommer fra mottakeren som å være opptatt av andre tanker. Tydelig informasjon og tilbakemelding kan forebygge indre støy.
-
-
-•	Gjøsund, P., & Huseby, R. (2023). To eller flere: Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk.  
-
-• Burkus, David. (2022, 25. Juli). How Great Teams Communicate [Video] Youtube: [Link text](https://youtu.be/vfLYEs_cHYs?si=V9qw9ak3LEsRms_4)
-
