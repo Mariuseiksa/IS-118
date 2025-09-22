@@ -1,1 +1,14 @@
-# IS-118
+## Kommunikasjon
+Åpen kommunikasjon er god kommunikasjon. Alle bør få delta i diskusjoner, være med på å dele ideer slik at alle på laget får delt sine perspektiver. Likeverd er viktig, dette fører til at alle i gruppa blir sett og hørt, og de ulike perspektivene kan bli vurdert sammen. Viktig å dele informasjon og erfaringer med hverandre når det gjelder prosjektet. 
+
+Etablere verbal eller ikke-verbal kontakt for å skape mening mellom teamet. Verbal kommunikasjon er enten muntlig eller skriftlig og ikke-verbal er når du kommuniserer uten ord, bare med kroppen som for eksempel kroppsholdning, ansiktsuttrykk, blikk, avstand osv. Å gi feedback er viktig altså å gi en respons til den som sender et budskap viser at du har forstått budskapet. Uformelle samtaler i teamet kan også være nyttig for å danne personlige forhold. Dette bidrar til å styrke samarbeid og øke tillit. 
+
+Metakommunikasjon, kommuniser om selve kommunikasjonen dere har hatt, snakk om hvordan gruppen kommuniserer med hverandre, hvordan de uttrykker seg og hvordan de lytter. Det er bra for å forbedre prosessen og forståelsen med hverandre. Dette kan forebygge konflikt i et team. Det er ulike fagfelt i det teamet, så det er viktig å tydeliggjøre rollefordeling i starten slik at teamet vet hvem de kan henvende seg til hvis det gjelder noe de lurer på. Enten om det er i samme fagfelt eller ulikt fagfelt. Dette gjør at teamet kan kommunisere effektivt og forebygge misforståelser.
+
+Forebygg støy i kommunikasjonsprosessen. Alt av ytre støy som f.eks. bråk av maskiner, folk som snakker, telefonlyder, kan føre til forstyrrelse og forhindrer budskapet fra å bli mottatt på en riktig måte. Du kan forebygge det gjennom å ha et stille møterom, regler om telefonbruk og snakking. Indre støy er forstyrrelser som kommer fra mottakeren som å være opptatt av andre tanker. Tydelig informasjon og tilbakemelding kan forebygge indre støy.
+
+
+•	Gjøsund, P., & Huseby, R. (2023). To eller flere: Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk.  
+
+• Burkus, David. (2022, 25. Juli). How Great Teams Communicate [Video] Youtube: [Link text](https://youtu.be/vfLYEs_cHYs?si=V9qw9ak3LEsRms_4)
+
