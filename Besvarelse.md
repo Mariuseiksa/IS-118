@@ -1,5 +1,5 @@
 # IS-118
-Oppstartspakke for Erlings Prosjektgruppe
+#Oppstartspakke for Erlings Prosjektgruppe (helal)
 
 En gjennomtenkt strategi for rekruttering og sammensetning av prosjektgruppen er avgjørende for at prosjektleder Erling skal lykkes med prosjektet sitt. Hvordan han setter sammen prosjektgruppen vil være avgjørende for hvordan dette påvirker både samarbeider, kommunikasjonen, beslutningsprosessen og prosjektets evne til å nå sine mål. Allerede i oppstartsfasen er det viktig å ta stilling til hvilke roller som er nødvendige, hvordan man skal sikre tilstrekkelig mangfold i kompetanse og perspektiver, og samtidig hvordan man legger til rette tillit tidlig gjennom sosial og demografisk likhet (Jacobsen, 2016, s. 45)
 
