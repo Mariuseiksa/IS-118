@@ -1,3 +1,4 @@
+
 # IS-118
 #Oppstartspakke for Erlings Prosjektgruppe (helal)
 
@@ -49,3 +50,11 @@ Usikkerhet og optimismeskjevhet ofte fører til at man undervurderer tid og ress
 Usikkerhet er en sentral faktor i den risikoen som finnes i alle prosjekter. Gode prosjekter er avhengig av en grundig analyse av risikoen i forkant. Slik at man kan legge vekt på prosjektideer og konkretiseres målbare forsøker i senere faser. « Jo mer usikkerhet og jo større risiko desto mer ressurser må legges ned i en slik tidlig planleggingsfase» (Jacobsen, D. I. (2016) s.49). En rullende plan er ideelt for Erling som oppdateres kontinuerlig over tid. For eksempel en kortsiktig 3-måneders plan med fokus på måloppnåelse. Det å planlegge korte bølger for å balansere behovet og dermed lage klare fleksible planer for hele prosjektet vil motvirke handlings- og tidspress. 
 Referanse:
 Jacobsen, D. I. (2016). Organisering og ledelse av prosjekter: Engangsorganisasjonens særtrekk (2. utg.). Fagbokforlaget.
+
+##Proaktive mekanismer for konflikthåndtering
+Når det er nye prosjekter, der folk har forskjellige bakgrunner, kan det ofte oppstå uenigheter. når man samler folk fra administrasjon, politikk, fagmiljø og brukergrupper, har de forskjellige måter å kommunisere og jobbe på. Derfor bør Erling sette standeren med tydelige mekanismer for hvordan konflikt skal håndteres, før de kan dukke opp.
+En måte og unngå konflikter på, kan være og skape en kultur der uenighet er lov og blir sett på som en slags ressurs. Erling som er prosjekt leder, kan for eksempel starte møtene med korte runder der folk gir feedback og sier ifra om noe skurrer. Da blir ting tatt tidlig f.eks. små signaler og det redusere sjansen for at konflikter vokser.
+Erling bør tenke på felles spilleregler, en slags konfliktkontrakt. Der han har noen enkle punkter som, uenighet skal tas opp i gruppa, alle skal få ytre sin mening i diskusjoner, man kritisere saken ikke personen. Dette gir tydelighet og gjør det lettere for Erling å gripe inn.
+Noen ganger blir uenigheter fastlåste. Da kan det være bra å ha en på forhånd avtalt tredjepart som kan mekle. I dette prosjektet kan det være HR eller den politiske rådgiveren. Poenget er ikke å “dele ut skyld”, men å få en nøytral stemme som kan hjelpe gruppa videre.
+For å unngå langvarige diskusjoner kan gruppa avtale hvordan beslutninger tas. Første steg kan være å søke konsensus. Hvis det ikke går, kan man stemme. Prosjektleder kan ha dobbeltstemme for å sikre fremdrift.
+Konflikter i prosjektarbeid er uunngåelige, men hvis man har systemer klare på forhånd, blir de lettere å håndtere. Tidlig åpenhet, spilleregler, mulighet for mekling og klare prosedyrer for beslutninger gjør at konflikter kan bli en kilde til læring i stedet for en barriere.
