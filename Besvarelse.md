@@ -88,6 +88,7 @@ Forebygg støy i kommunikasjonsprosessen. Alt av ytre støy som f.eks. bråk av 
 
 
 Referanser:
+
 • Jacobsen, D. I. (2016). Organisering og ledelse av prosjekter: Engangsorganisasjonens særtrekk (2. utg.). Fagbokforlaget.
 
 •	Gjøsund, P., & Huseby, R. (2023). To eller flere: Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk.
