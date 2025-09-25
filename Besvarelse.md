@@ -51,7 +51,7 @@ Usikkerhet er en sentral faktor i den risikoen som finnes i alle prosjekter. God
 Referanse:
 Jacobsen, D. I. (2016). Organisering og ledelse av prosjekter: Engangsorganisasjonens særtrekk (2. utg.). Fagbokforlaget.
 
-##Proaktive mekanismer for konflikthåndtering
+##Proaktive mekanismer for konflikthåndtering:
 Når det er nye prosjekter, der folk har forskjellige bakgrunner, kan det ofte oppstå uenigheter. når man samler folk fra administrasjon, politikk, fagmiljø og brukergrupper, har de forskjellige måter å kommunisere og jobbe på. Derfor bør Erling sette standeren med tydelige mekanismer for hvordan konflikt skal håndteres, før de kan dukke opp.
 En måte og unngå konflikter på, kan være og skape en kultur der uenighet er lov og blir sett på som en slags ressurs. Erling som er prosjekt leder, kan for eksempel starte møtene med korte runder der folk gir feedback og sier ifra om noe skurrer. Da blir ting tatt tidlig f.eks. små signaler og det redusere sjansen for at konflikter vokser.
 Erling bør tenke på felles spilleregler, en slags konfliktkontrakt. Der han har noen enkle punkter som, uenighet skal tas opp i gruppa, alle skal få ytre sin mening i diskusjoner, man kritisere saken ikke personen. Dette gir tydelighet og gjør det lettere for Erling å gripe inn.
