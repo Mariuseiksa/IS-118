@@ -20,6 +20,40 @@ I praksis kan dette innebære å rekruttere personer med ulik faglig kompetanse,
 
 For Erling er det avgjørende å se rekruttering og sammensetning som en del av oppstartspakken, ikke som en ettertanke. Prosjektgruppen må inneholde et mangfold av roller og perspektiver for å håndtere oppgavene effektivt, men også en viss grad av likhet for å bygge tillit og samarbeid tidlig. Balansen mellom disse to hensynene gir et prosjektteam som både kan være kreativt og stabilt.
 
+Oppgave 2 – agenda til oppstartsmøtet 
+Det første oppstartsmøtet danner grunnlaget for gruppens samarbeid til prosjektet, dermed er en god agenda essensielt for å danne en god gruppedynamikk. 
+Møtet vil trolig vare i 2-3 timer da det er det første møtet i et omfattende prosjekt. 
+1.	Introduksjon og grunnleggende info, rundt 15 minutter:
+Her vil Erling ta imot teamet og ha mest ordet under introen. Han gir en presentasjon av prosjektets bakgrunn og formål, slik at teamet får en forståelse for hva målet er, hvorfor dette er viktig og problemene som trengs å løses for å oppnå dette. Etter denne introduksjonen vil det også være gunstig å fortelle om mer praktisk info, som for eksempel hyppighet på fremtidige møter og tidslengde. 
+
+2.	Omfattende presentasjon av selve prosektet, 30-45 minutter:
+Ønsker å etablere viktigheten av prosektifiseringen for teamet ettersom dette er noe nytt for alle. Dermed er det nødvendig med en omfattende presentasjon der Erling forteller om:
+•	Hva medborgerportalen skal gå ut på, en platform der innbyggere kan sende inn innspill, følge saker, delta i digitale folkemøter og få oversikt over arrangementer i kommunen.
+•	Visjon og målet: Øke innbyggerengasjement og transparens med 20% det første året gjennom den digitale medborgerportalen.
+•	Tidsramme på 15 måneder og budsjettet på 8 millioner.
+•	Kort om teamet og deres tverrfaglighet, viktigheten av dette.
+
+3.	Relasjonsbygging (pseudo arbeid), 30-45 minutter:
+Et vellykket prosjekt er avhengig av gode relasjoner innad i prosjektet. Målet her er å skape tillitt og kjennskap til hverandres styrker og svakheter, samtidig som man blir tryggere på hverandre og lærer å kommunisere effektivt med teamet sitt. God kommunikasjon er utrolig viktig for prosjektet da man ønsker å være på bølgelengde i en omfattende prosess med mye regler som skal følges fra kommunestyret. Dette leder også inn i norming-fasen, der prosjekt teamet etablerer felles normer og verdier gjennom teambuilding.
+
+Først går teamet gjennom en normal bli kjent øvelse, hvor man deler navn, sin rolle, erfaring og interesser. Man kan deretter diskutere felles meninger om hvorfor prosjektet er viktig og givende for hver enkelt. 
+Etter dette kan Erling gi en aksjonslæring oppgave for teamet. Her skal man lære gjennom å reflektere over sine egne tanker og dermed handlinger i ulike scenarioer, for å øke forståelse til hverandre og skape en mer funksjonell prosjektkultur.
+
+4.	Roller og ansvarsområde for teamet, 30 minutter:
+Klargjøre av enkeltmedlemmenes bidrag og roller, herav kommunal administrasjon, fagspesialister på digital sikkerhet og en ux/ui designer, politisk rådgiver og brukerrepresentanter.
+Diskutere sine forventninger til prosjektet for å opprettholde felles forståelse og en god bølgelengde. Man må ha like forventninger for å lykkes med å jobbe sammen.
+
+5.	Kommunikasjon og arbeidsform, 30 minutter:
+Etablere hvordan teamet skal kommunisere, f. eks felles Teams/e-post osv.
+Beslutningsprosesser, Erling skal være prosjektleder og overholde beslutningene i gruppa. Avklare samarbeidet mellom faggruppene, hva som passer best for hver enkelt i hverdagen og praktiske løsninger.
+
+6.	Avslutning, 20 minutter:
+Gjennomgang av nåværende tidsplan og tidsrammer på prosjektet. Sammendrag/referat av hva som har blitt diskutert i dagens møte. Avtaling av neste møte og diskusjon i plenum om hva hver enkelt skal arbeide med fram til neste møte.
+
+Kilder: 
+Gjøsund, P & Huseby, R. (2023). To eller flere: Basiskunnskaper i gruppepsykologi kapittel 2 og 3
+Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter kapittel 1-3
+
 ## Kommunikasjon
 Åpen kommunikasjon er god kommunikasjon. Alle bør få delta i diskusjoner, være med på å dele ideer slik at alle på laget får delt sine perspektiver. Likeverd er viktig, dette fører til at alle i gruppa blir sett og hørt, og de ulike perspektivene kan bli vurdert sammen. Viktig å dele informasjon og erfaringer med hverandre når det gjelder prosjektet. 
 
