@@ -1,7 +1,6 @@
+# IS-118 | Oppstartspakke for Erlings Prosjektgruppe
 
-# IS-118
-#Oppstartspakke for Erlings Prosjektgruppe (helal)
-
+### Strategi for rekruttering og sammensetning
 En gjennomtenkt strategi for rekruttering og sammensetning av prosjektgruppen er avgjørende for at prosjektleder Erling skal lykkes med prosjektet sitt. Hvordan han setter sammen prosjektgruppen vil være avgjørende for hvordan dette påvirker både samarbeider, kommunikasjonen, beslutningsprosessen og prosjektets evne til å nå sine mål. Allerede i oppstartsfasen er det viktig å ta stilling til hvilke roller som er nødvendige, hvordan man skal sikre tilstrekkelig mangfold i kompetanse og perspektiver, og samtidig hvordan man legger til rette tillit tidlig gjennom sosial og demografisk likhet (Jacobsen, 2016, s. 45)
 
 En vellykket prosjektgruppe krever mer enn bare faglig kompetanse, og bør derfor også bygges med tanke på mangfold og sosial balanse. Allerede i startfasen er det viktig å sette sammen en gruppe mennesker som er sterke i sine fagfelt, men samtidig utfyller hverandre i roller som produksjon, administrasjon, integrasjon og entreprenørskap (Jacobsen, 2016, s. 33). Dette bidrar til helhetlige vurderinger, mer struktur og styrket samarbeid. Prosjektgruppen bør også inkludere både eldre og yngre, samt personer med ulik bakgrunn og livserfaring, som deler en felles forståelse av prosjektets mål og verdier. Dette skaper sosial og demografisk balanse, og bidrar til både ulike perspektiver og trygghet i gruppen (Jacobsen, 2016, s. 34-35). Med et slikt mangfold får prosjektgruppen et bredt spekter av kompetanse og kreativitet, og står sterkere rustet til å løse utfordringer i fellesskap (Jacobsen, 2016, s. 34-35) 
@@ -20,7 +19,7 @@ I praksis kan dette innebære å rekruttere personer med ulik faglig kompetanse,
 
 For Erling er det avgjørende å se rekruttering og sammensetning som en del av oppstartspakken, ikke som en ettertanke. Prosjektgruppen må inneholde et mangfold av roller og perspektiver for å håndtere oppgavene effektivt, men også en viss grad av likhet for å bygge tillit og samarbeid tidlig. Balansen mellom disse to hensynene gir et prosjektteam som både kan være kreativt og stabilt.
 
-Oppgave 2 – agenda til oppstartsmøtet 
+### Agenda til oppstartsmøtet
 Det første oppstartsmøtet danner grunnlaget for gruppens samarbeid til prosjektet, dermed er en god agenda essensielt for å danne en god gruppedynamikk. 
 Møtet vil trolig vare i 2-3 timer da det er det første møtet i et omfattende prosjekt. 
 1.	Introduksjon og grunnleggende info, rundt 15 minutter:
@@ -50,26 +49,13 @@ Beslutningsprosesser, Erling skal være prosjektleder og overholde beslutningene
 6.	Avslutning, 20 minutter:
 Gjennomgang av nåværende tidsplan og tidsrammer på prosjektet. Sammendrag/referat av hva som har blitt diskutert i dagens møte. Avtaling av neste møte og diskusjon i plenum om hva hver enkelt skal arbeide med fram til neste møte.
 
-Kilder: 
-Gjøsund, P & Huseby, R. (2023). To eller flere: Basiskunnskaper i gruppepsykologi kapittel 2 og 3
-Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter kapittel 1-3
-
-## Kommunikasjon
-Åpen kommunikasjon er god kommunikasjon. Alle bør få delta i diskusjoner, være med på å dele ideer slik at alle på laget får delt sine perspektiver. Likeverd er viktig, dette fører til at alle i gruppa blir sett og hørt, og de ulike perspektivene kan bli vurdert sammen. Viktig å dele informasjon og erfaringer med hverandre når det gjelder prosjektet. 
-
-Etablere verbal eller ikke-verbal kontakt for å skape mening mellom teamet. Verbal kommunikasjon er enten muntlig eller skriftlig og ikke-verbal er når du kommuniserer uten ord, bare med kroppen som for eksempel kroppsholdning, ansiktsuttrykk, blikk, avstand osv. Å gi feedback er viktig altså å gi en respons til den som sender et budskap viser at du har forstått budskapet. Uformelle samtaler i teamet kan også være nyttig for å danne personlige forhold. Dette bidrar til å styrke samarbeid og øke tillit. 
-
-Metakommunikasjon, kommuniser om selve kommunikasjonen dere har hatt, snakk om hvordan gruppen kommuniserer med hverandre, hvordan de uttrykker seg og hvordan de lytter. Det er bra for å forbedre prosessen og forståelsen med hverandre. Dette kan forebygge konflikt i et team. Det er ulike fagfelt i det teamet, så det er viktig å tydeliggjøre rollefordeling i starten slik at teamet vet hvem de kan henvende seg til hvis det gjelder noe de lurer på. Enten om det er i samme fagfelt eller ulikt fagfelt. Dette gjør at teamet kan kommunisere effektivt og forebygge misforståelser.
-
-Forebygg støy i kommunikasjonsprosessen. Alt av ytre støy som f.eks. bråk av maskiner, folk som snakker, telefonlyder, kan føre til forstyrrelse og forhindrer budskapet fra å bli mottatt på en riktig måte. Du kan forebygge det gjennom å ha et stille møterom, regler om telefonbruk og snakking. Indre støy er forstyrrelser som kommer fra mottakeren som å være opptatt av andre tanker. Tydelig informasjon og tilbakemelding kan forebygge indre støy.
-
-#Rammer for relasjonelle kontrakter.
+### Rammer for relasjonelle kontrakter.
 
 I prosjektledelse har kontrakter ofte hatt fokus på tid, kostnader og kvalitet.
- Disse delene er viktige, men de er ikke de eneste faktorene vi bør vektlegge. 
- I tradisjonell prosjektledelse er alle som jobber i prosjektet viktige, og et prosjekt lykkes aldri uten  gode prosjekteiere, relasjoner og prosjektledere.
-  Derfor er kontrakter også viktige for å regulere samarbeidsformer, kommunikasjon og tillitsbygging og roller og ansvar 
- Tillit er et sentralt punkt som bør legges inn i kontrakten. Det bør tilrettelegges for ærlig kommunikasjon, der risiko og utfordringer deles åpent mellom partene. På den måten kan man bygge tillit og forebygge både misforståelser og konflikter.
+Disse delene er viktige, men de er ikke de eneste faktorene vi bør vektlegge. 
+I tradisjonell prosjektledelse er alle som jobber i prosjektet viktige, og et prosjekt lykkes aldri uten  gode prosjekteiere, relasjoner og prosjektledere.
+Derfor er kontrakter også viktige for å regulere samarbeidsformer, kommunikasjon og tillitsbygging og roller og ansvar 
+Tillit er et sentralt punkt som bør legges inn i kontrakten. Det bør tilrettelegges for ærlig kommunikasjon, der risiko og utfordringer deles åpent mellom partene. På den måten kan man bygge tillit og forebygge både misforståelser og konflikter.
 
 Et annet viktig element er å ha klar versjon og mål. Når alle parter har en felles #forståelse av hva som skal oppnås, blir det enklere forstå riktige beslutninger underveis.
 Videre bør roller og ansvar defineres tydelig. En god kontrakt beskriver hvem som har beslutningsmyndighet og hvilke oppgaver de ulike partene har. Eksempelvis kan det avtales faste møtepunkter for å identifisere problemer tidlig og finne løsninger raskest mulig.
@@ -78,17 +64,34 @@ For at alle disse punktene skal fungere i praksis så må leder og eier ha god k
 
 Til slutt bør kontrakten også inneholde bestemmelser for konflikt- og risikohåndtering. Relasjonelle kontrakter kan beskrive hvordan man kan unngå uenigheter, for eksempel ved å identifisere risiko, analysere konsekvensene og planlegge #tiltak. Når tiltakene gjennomføres,  reduseres risikoen for at små problemer utvikler seg til større konflikter
 
-## Håndtering av tidspress og planleggingsfellen oppgave 5 
-Planlegging av framtidige arbeid står sentralt i en prosjektets tidlige faser. Et systematisk arbeid skal gi bedre innsikt i, hva som skal gjøres når og hvordan det skal gjøres. Planlegging er en fase der man skaper en oversikt og forutsigbarhet. Altså man analyserer oppgaven, vurderer risikoen og sikkerheten mellom gruppemedlemmene. Ved å sette tydelige strukturer i planleggings fasen. En oversikt bør lages over hvem som har ansvar for de ulike tidspunktene, slik at alle er klare over hva som forventes av dem. Etablering av gode planer og strukturer, samtidig gode sosiale relasjoner mellom prosjektdeltakerne og prosjektlederen vil styrke prosjektets langsiktige suksess. (Jacobsen, D. I. (2016))
-Usikkerhet og optimismeskjevhet ofte fører til at man undervurderer tid og ressurser som kreves til å fullføre et prosjekt i planleggingsfellen. Når et prosjekt er bundet av klare tidsfrister oppstår ofte tidspress, dette medfører at prosjektdeltakere jobber mer effektivt og fokuserer på det essensielle. I prosjektets tidlige faser vil en prosjektleder kunne oppleve et sterkt handlingspress, spesielt når det er tidsbegrenset. Erling kan motvirke det handlingspresset ved å sette et idealt målsettinger for prosjektet gjennom akronymet SMARTHe-målet. Spesifikke og målbare måler gir retninger uten at man trenger å planlegge alle aktivitetene. Samtidig at målet er realistisk, og at det er mulig å nå med de ressursene prosjektet har rådet. Et tverrfaglig prosjekt med en tidsramme på 15 måneder kan framstå som komplekst og uoversiktlig. Dermed kan Erling ved hjelp av SMARTH e- målet bryte ned arbeidet og sette realistiske og konkrete plan i planleggingsfasen. (Jacobsen, D. I. (2016))
-Usikkerhet er en sentral faktor i den risikoen som finnes i alle prosjekter. Gode prosjekter er avhengig av en grundig analyse av risikoen i forkant. Slik at man kan legge vekt på prosjektideer og konkretiseres målbare forsøker i senere faser. « Jo mer usikkerhet og jo større risiko desto mer ressurser må legges ned i en slik tidlig planleggingsfase» (Jacobsen, D. I. (2016) s.49). En rullende plan er ideelt for Erling som oppdateres kontinuerlig over tid. For eksempel en kortsiktig 3-måneders plan med fokus på måloppnåelse. Det å planlegge korte bølger for å balansere behovet og dermed lage klare fleksible planer for hele prosjektet vil motvirke handlings- og tidspress. 
-Referanse:
-Jacobsen, D. I. (2016). Organisering og ledelse av prosjekter: Engangsorganisasjonens særtrekk (2. utg.). Fagbokforlaget.
-
-##Proaktive mekanismer for konflikthåndtering:
+### Proaktive mekanismer for konflikthåndtering:
 Når det er nye prosjekter, der folk har forskjellige bakgrunner, kan det ofte oppstå uenigheter. når man samler folk fra administrasjon, politikk, fagmiljø og brukergrupper, har de forskjellige måter å kommunisere og jobbe på. Derfor bør Erling sette standeren med tydelige mekanismer for hvordan konflikt skal håndteres, før de kan dukke opp.
 En måte og unngå konflikter på, kan være og skape en kultur der uenighet er lov og blir sett på som en slags ressurs. Erling som er prosjekt leder, kan for eksempel starte møtene med korte runder der folk gir feedback og sier ifra om noe skurrer. Da blir ting tatt tidlig f.eks. små signaler og det redusere sjansen for at konflikter vokser.
 Erling bør tenke på felles spilleregler, en slags konfliktkontrakt. Der han har noen enkle punkter som, uenighet skal tas opp i gruppa, alle skal få ytre sin mening i diskusjoner, man kritisere saken ikke personen. Dette gir tydelighet og gjør det lettere for Erling å gripe inn.
 Noen ganger blir uenigheter fastlåste. Da kan det være bra å ha en på forhånd avtalt tredjepart som kan mekle. I dette prosjektet kan det være HR eller den politiske rådgiveren. Poenget er ikke å “dele ut skyld”, men å få en nøytral stemme som kan hjelpe gruppa videre.
 For å unngå langvarige diskusjoner kan gruppa avtale hvordan beslutninger tas. Første steg kan være å søke konsensus. Hvis det ikke går, kan man stemme. Prosjektleder kan ha dobbeltstemme for å sikre fremdrift.
 Konflikter i prosjektarbeid er uunngåelige, men hvis man har systemer klare på forhånd, blir de lettere å håndtere. Tidlig åpenhet, spilleregler, mulighet for mekling og klare prosedyrer for beslutninger gjør at konflikter kan bli en kilde til læring i stedet for en barriere.
+
+### Håndtering av tidspress og planleggingsfellen
+Planlegging av framtidige arbeid står sentralt i en prosjektets tidlige faser. Et systematisk arbeid skal gi bedre innsikt i, hva som skal gjøres når og hvordan det skal gjøres. Planlegging er en fase der man skaper en oversikt og forutsigbarhet. Altså man analyserer oppgaven, vurderer risikoen og sikkerheten mellom gruppemedlemmene. Ved å sette tydelige strukturer i planleggings fasen. En oversikt bør lages over hvem som har ansvar for de ulike tidspunktene, slik at alle er klare over hva som forventes av dem. Etablering av gode planer og strukturer, samtidig gode sosiale relasjoner mellom prosjektdeltakerne og prosjektlederen vil styrke prosjektets langsiktige suksess. (Jacobsen, D. I. (2016))
+Usikkerhet og optimismeskjevhet ofte fører til at man undervurderer tid og ressurser som kreves til å fullføre et prosjekt i planleggingsfellen. Når et prosjekt er bundet av klare tidsfrister oppstår ofte tidspress, dette medfører at prosjektdeltakere jobber mer effektivt og fokuserer på det essensielle. I prosjektets tidlige faser vil en prosjektleder kunne oppleve et sterkt handlingspress, spesielt når det er tidsbegrenset. Erling kan motvirke det handlingspresset ved å sette et idealt målsettinger for prosjektet gjennom akronymet SMARTHe-målet. Spesifikke og målbare måler gir retninger uten at man trenger å planlegge alle aktivitetene. Samtidig at målet er realistisk, og at det er mulig å nå med de ressursene prosjektet har rådet. Et tverrfaglig prosjekt med en tidsramme på 15 måneder kan framstå som komplekst og uoversiktlig. Dermed kan Erling ved hjelp av SMARTH e- målet bryte ned arbeidet og sette realistiske og konkrete plan i planleggingsfasen. (Jacobsen, D. I. (2016))
+Usikkerhet er en sentral faktor i den risikoen som finnes i alle prosjekter. Gode prosjekter er avhengig av en grundig analyse av risikoen i forkant. Slik at man kan legge vekt på prosjektideer og konkretiseres målbare forsøker i senere faser. « Jo mer usikkerhet og jo større risiko desto mer ressurser må legges ned i en slik tidlig planleggingsfase» (Jacobsen, D. I. (2016) s.49). En rullende plan er ideelt for Erling som oppdateres kontinuerlig over tid. For eksempel en kortsiktig 3-måneders plan med fokus på måloppnåelse. Det å planlegge korte bølger for å balansere behovet og dermed lage klare fleksible planer for hele prosjektet vil motvirke handlings- og tidspress. 
+
+### Kommunikasjon
+Åpen kommunikasjon er god kommunikasjon. Alle bør få delta i diskusjoner, være med på å dele ideer slik at alle på laget får delt sine perspektiver. Likeverd er viktig, dette fører til at alle i gruppa blir sett og hørt, og de ulike perspektivene kan bli vurdert sammen. Viktig å dele informasjon og erfaringer med hverandre når det gjelder prosjektet. 
+
+Etablere verbal eller ikke-verbal kontakt for å skape mening mellom teamet. Verbal kommunikasjon er enten muntlig eller skriftlig og ikke-verbal er når du kommuniserer uten ord, bare med kroppen som for eksempel kroppsholdning, ansiktsuttrykk, blikk, avstand osv. Å gi feedback er viktig altså å gi en respons til den som sender et budskap viser at du har forstått budskapet. Uformelle samtaler i teamet kan også være nyttig for å danne personlige forhold. Dette bidrar til å styrke samarbeid og øke tillit. 
+
+Metakommunikasjon, kommuniser om selve kommunikasjonen dere har hatt, snakk om hvordan gruppen kommuniserer med hverandre, hvordan de uttrykker seg og hvordan de lytter. Det er bra for å forbedre prosessen og forståelsen med hverandre. Dette kan forebygge konflikt i et team. Det er ulike fagfelt i det teamet, så det er viktig å tydeliggjøre rollefordeling i starten slik at teamet vet hvem de kan henvende seg til hvis det gjelder noe de lurer på. Enten om det er i samme fagfelt eller ulikt fagfelt. Dette gjør at teamet kan kommunisere effektivt og forebygge misforståelser.
+
+Forebygg støy i kommunikasjonsprosessen. Alt av ytre støy som f.eks. bråk av maskiner, folk som snakker, telefonlyder, kan føre til forstyrrelse og forhindrer budskapet fra å bli mottatt på en riktig måte. Du kan forebygge det gjennom å ha et stille møterom, regler om telefonbruk og snakking. Indre støy er forstyrrelser som kommer fra mottakeren som å være opptatt av andre tanker. Tydelig informasjon og tilbakemelding kan forebygge indre støy.
+
+
+Referanser:
+• Jacobsen, D. I. (2016). Organisering og ledelse av prosjekter: Engangsorganisasjonens særtrekk (2. utg.). Fagbokforlaget.
+
+•	Gjøsund, P., & Huseby, R. (2023). To eller flere: Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk.
+
+•	Burkus, David. (2022, 25. Juli). How Great Teams Communicate [Video] Youtube: https://youtu.be/vfLYEs_cHYs?si=V9qw9ak3LEsRms_4
+
+
